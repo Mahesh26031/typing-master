@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+  
+#quote-container {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+  
+#input-box {
+    width: 500px;
+    height: 50px;
+    font-size: 24px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+   
+#message-container  {
+    margin-top: 20px;
+    font-size: 25px;
+}
+  
